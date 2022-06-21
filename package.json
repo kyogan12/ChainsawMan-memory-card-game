@@ -1,7 +1,7 @@
 {
   "name": "memorygame",
   "version": "0.1.0",
-  "homepage": "http://kyogan12.github.io/Chainsaw-man-memory-game",
+  "homepage": "https://kyogan12.github.io/ChainsawMan-memory-card-game/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
