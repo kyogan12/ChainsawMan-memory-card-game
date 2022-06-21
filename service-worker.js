@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ChainsawMan-memory-game/precache-manifest.e3d0fcb5a56d79744189755352e78336.js"
+  "/ChainsawMan-memory-card-game/precache-manifest.4bca990eab53a63d3b461a0aeb881613.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ChainsawMan-memory-game/index.html", {
+workbox.routing.registerNavigationRoute("/ChainsawMan-memory-card-game/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
