@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 import "../src/styles/App.css";
 import Cards from "./components/Cards";
 import Title from "./components/Title";
